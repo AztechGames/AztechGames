@@ -19,7 +19,7 @@ ___________________________
 <img align="left"src="https://img.utdstc.com/icon/ed7/47a/ed747a09e27a54cebb48b92160a207c6592574baa4281820f46eff079afc1d08:200" width="45" height="45">
 <img align="left"src="https://web.itu.edu.tr/ayanzadeh17/github.png"width="47" height="47">
 <img align="left"src="https://www.adobe.com/content/dam/cc/us/en/creativecloud/max2020/mnemonics/photoshop.svg" width="45"height="45">
-<img align="left"src="https://www.wikidata.org/wiki/Q17628502" width="55" height="55">
+<img align="left"src="https://www.wikidata.org/wiki/Q17628502#/media/File:DaVinci_Resolve_17_logo.svg" width="55" height="55">
 <img align="left"src="https://cdn.icon-icons.com/icons2/2108/PNG/512/slack_icon_130829.png" width="55" height="55">
 <img align="left"src="https://muratcicek.net/wp-content/uploads/2020/10/c-logo.png"width="50" height="50">
 <img align="left"src="https://www.pngitem.com/pimgs/m/201-2012093_linux-logo-png-linux-logo-transparent-background-png.png" width="45"height="48">
