@@ -17,7 +17,7 @@ ___________________________
 <img align="left" src="https://avatars.githubusercontent.com/u/35213382?v=4" width="45" height="45">
 <img align="left"src="https://e1.pngegg.com/pngimages/753/16/png-clipart-rekordbox-logo-black-decal-thumbnail.png" width="45" height="47">
 <img align="left"src="https://img.utdstc.com/icon/ed7/47a/ed747a09e27a54cebb48b92160a207c6592574baa4281820f46eff079afc1d08:200" width="45" height="45">
-<img align="left"src="https://www.onmsft.com/wp-content/uploads/2020/04/githubappicon.jpg"width="55" height="47">
+<img align="left"src="https://www.onmsft.com/wp-content/uploads/2020/04/githubappicon.jpg"width="65" height="47">
 <img align="left"src="https://www.adobe.com/content/dam/cc/us/en/creativecloud/max2020/mnemonics/photoshop.svg" width="45"height="45">
 <img align="left"src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/DaVinci_Resolve_17_logo.svg/1200px-DaVinci_Resolve_17_logo.svg.png" width="55" height="55">
 <img align="left"src="https://cdn.icon-icons.com/icons2/2108/PNG/512/slack_icon_130829.png" width="55" height="55">
