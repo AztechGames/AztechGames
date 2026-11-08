@@ -10,11 +10,11 @@
   <a href="https://discord.com/invite/XVmYMdcRA2"><img src="https://img.shields.io/badge/Discord-0b0d17?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2" /></a>
 </p>
 
-<img src="./images/aztech-stats.svg" alt="150+ games made · 15+ Unity assets · 1000+ hours trained · 7+ years in games" width="100%" />
+<picture><img src="./images/aztech-stats.svg" alt="150+ games made · 15+ Unity assets · 1000+ hours trained · 7+ years in games" width="100%" /></picture>
 
 <br />
 
-<img src="./images/aztech-lv1-studio.svg" alt="Level 01 — The Studio" width="100%" />
+<picture><img src="./images/aztech-lv1-studio.svg" alt="Level 01 — The Studio" width="100%" /></picture>
 
 > **Aztech Games** is an independent game studio from Türkiye, founded by **Atakan Naci Çakır**.
 > We design, build and ship games end-to-end — from the first prototype to the store page —
@@ -31,7 +31,7 @@
 
 <br />
 
-<img src="./images/aztech-lv2-games.svg" alt="Level 02 — Our Games" width="100%" />
+<picture><img src="./images/aztech-lv2-games.svg" alt="Level 02 — Our Games" width="100%" /></picture>
 
 <div align="center">
 <table>
@@ -55,7 +55,7 @@
 
 <br />
 
-<img src="./images/aztech-lv3-assets.svg" alt="Level 03 — Unity Asset Store" width="100%" />
+<picture><img src="./images/aztech-lv3-assets.svg" alt="Level 03 — Unity Asset Store" width="100%" /></picture>
 
 <div align="center">
 <table>
@@ -77,12 +77,12 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=unity,cs,blender,ps,git,github,linux&theme=dark" alt="Unity, C#, Blender, Photoshop, Git, GitHub, Linux" />
+  <picture><img src="https://skillicons.dev/icons?i=unity,cs,blender,ps,git,github,linux&theme=dark" alt="Unity, C#, Blender, Photoshop, Git, GitHub, Linux" /></picture>
 </p>
 
 <br />
 
-<img src="./images/aztech-lv4-academy.svg" alt="Level 04 — Aztech Academy" width="100%" />
+<picture><img src="./images/aztech-lv4-academy.svg" alt="Level 04 — Aztech Academy" width="100%" /></picture>
 
 <p align="center">
   Learn game development with us — courses for <b>universities</b>, <b>companies</b> and <b>individuals</b>,<br />
@@ -104,7 +104,7 @@
 
 <br />
 
-<img src="./images/aztech-lv5-contact.svg" alt="Level 05 — Multiplayer Mode: Let's build together" width="100%" />
+<picture><img src="./images/aztech-lv5-contact.svg" alt="Level 05 — Multiplayer Mode: Let's build together" width="100%" /></picture>
 
 <p align="center">
   Publishing, co-development, training or consulting — <b>player two, press start.</b>
@@ -119,4 +119,4 @@
 
 <br />
 
-<img src="./images/aztech-footer.svg" alt="Thanks for playing — Aztech Games" width="100%" />
+<picture><img src="./images/aztech-footer.svg" alt="Thanks for playing — Aztech Games" width="100%" /></picture>
